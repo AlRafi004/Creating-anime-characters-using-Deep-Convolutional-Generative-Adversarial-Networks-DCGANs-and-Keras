@@ -10,7 +10,7 @@ Proyek ini menggunakan Deep Convolutional Generative Adversarial Networks (DCGAN
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white">
 
 </div>
-============================================================================================
+======================================================================
 
 ## Daftar Isi
 - [1. Deskripsi](#deskripsi)
