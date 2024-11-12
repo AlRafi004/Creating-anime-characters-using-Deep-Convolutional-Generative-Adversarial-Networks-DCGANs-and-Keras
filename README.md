@@ -7,6 +7,7 @@ Proyek ini menggunakan Deep Convolutional Generative Adversarial Networks (DCGAN
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
 <img src="https://img.shields.io/badge/Kaggle-%2300B7D6.svg?style=for-the-badge&logo=kaggle&logoColor=white">
+<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white">
 
 </div>
 ============================================================================================
