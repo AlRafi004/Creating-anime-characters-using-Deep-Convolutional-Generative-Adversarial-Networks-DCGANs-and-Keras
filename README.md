@@ -10,7 +10,7 @@ Proyek ini menggunakan Deep Convolutional Generative Adversarial Networks (DCGAN
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white">
 
 </div>
-======================================================================
+===========================================================================
 
 ## Daftar Isi
 - [1. Deskripsi](#deskripsi)
@@ -20,7 +20,7 @@ Proyek ini menggunakan Deep Convolutional Generative Adversarial Networks (DCGAN
 - [5. Hasil](#hasil)
 - [6. Catatan](#catatan)
 
-==================================================================================
+===========================================================================
 
 ## Deskripsi
 
@@ -29,14 +29,14 @@ Proyek ini dibagi menjadi dua bagian:
 1. **Dasar Generative Adversarial Networks (GAN)**: Bagian ini memperkenalkan prinsip-prinsip teoritis di balik GAN menggunakan contoh mainan. Ini mencakup Generator, Diskriminator, Fungsi Loss, dan proses pelatihan.
 2. **Deep Convolutional Generative Adversarial Networks (DCGAN)**: Bagian ini berfokus pada penerapan DCGAN untuk menghasilkan karakter anime. Ini mencakup pemuatan dataset, pembuatan generator data, membangun Generator dan Diskriminator, mendefinisikan fungsi loss dan pengoptimal, membuat fungsi langkah pelatihan, dan melatih DCGAN. Selain itu, ia mengeksplorasi bagaimana mengubah input ruang laten DCGAN memengaruhi gambar yang dihasilkan.
 
-============================================================================================
+===========================================================================
 
 ## Dataset
 
 <p align="justify">
 Proyek ini menggunakan dataset Anime Face dari Kaggle. Dataset asli memiliki 63.632 wajah anime "berkualitas tinggi", tetapi untuk membuat model berlatih lebih cepat, dataset yang lebih kecil yang disebut `cartoon_20000` digunakan. Dataset ini berisi 20.000 gambar yang dipilih secara acak dari dataset asli.
 </p>
-============================================================================================
+===========================================================================
 
 ## Dependensi
 
@@ -50,7 +50,7 @@ Proyek ini menggunakan dataset Anime Face dari Kaggle. Dataset asli memiliki 63.
 * tqdm
 * skillsnetwork
 
-============================================================================================
+===========================================================================
 
 ## Cara Menjalankan
 
@@ -58,17 +58,17 @@ Proyek ini menggunakan dataset Anime Face dari Kaggle. Dataset asli memiliki 63.
 2. Buka notebook Google Colab.
 3. Jalankan sel kode di notebook.
 
-============================================================================================
+===========================================================================
 
 ## Hasil
 
 Setelah pelatihan, DCGAN akan menghasilkan gambar karakter anime baru. Gambar-gambar ini akan disimpan di folder `images` dalam direktori kerja saat ini.
 
-============================================================================================
+===========================================================================
 
 ## Catatan
 
 * Proyek ini membutuhkan waktu yang lama untuk dilatih.
 * Hasilnya dapat bervariasi tergantung pada data pelatihan dan parameter model.
 
-============================================================================================
+===========================================================================
