@@ -2,7 +2,7 @@
   
 # Membuat Karakter Anime menggunakan Deep Convolutional Generative Adversarial Networks (DCGAN) dan Keras
 
-Proyek ini menunjukkan cara membuat karakter anime menggunakan Deep Convolutional Generative Adversarial Networks (DCGAN) dan Keras.
+Proyek ini menggunakan Deep Convolutional Generative Adversarial Networks (DCGANs) untuk menciptakan avatar anime yang berbeda bagi para pemain video game. Proyek ini mencakup pelatihan model DCGAN dengan memanfaatkan dataset Anime Face yang diperoleh dari Kaggle. Model ini memiliki dua komponen utama: Generator, yang menciptakan wajah anime baru, dan Discriminator, yang membedakan antara wajah asli dan yang dihasilkan. Generator diterapkan sebagai jaringan saraf dasar dengan Keras, sedangkan Discriminator diterapkan sebagai fungsi regresi logistik. Proses pelatihan memanfaatkan optimizer Adam, dan fungsi loss ditetapkan untuk menilai kinerja kedua jaringan.
 
 ============================================================================================
 </div>
