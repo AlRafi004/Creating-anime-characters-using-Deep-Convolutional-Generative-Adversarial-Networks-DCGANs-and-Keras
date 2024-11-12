@@ -20,7 +20,7 @@ Proyek ini menggunakan Deep Convolutional Generative Adversarial Networks (DCGAN
 - [5. Hasil](#hasil)
 - [6. Catatan](#catatan)
 
-============================================================================================
+==================================================================================
 
 ## Deskripsi
 
